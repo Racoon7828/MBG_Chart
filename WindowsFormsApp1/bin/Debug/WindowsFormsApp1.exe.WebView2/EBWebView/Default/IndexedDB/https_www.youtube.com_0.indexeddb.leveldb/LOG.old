@@ -1,0 +1,12 @@
+2022/12/08-00:10:54.205 79f8 Reusing MANIFEST C:\Users\a0102\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/08-00:10:54.205 79f8 Recovering log #68
+2022/12/08-00:10:54.219 79f8 Reusing old log C:\Users\a0102\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000068.log 
+2022/12/08-00:10:56.665 76d4 Level-0 table #73: started
+2022/12/08-00:10:56.678 76d4 Level-0 table #73: 899935 bytes OK
+2022/12/08-00:10:56.679 76d4 Delete type=0 #68
+2022/12/08-00:10:56.790 ba8 Compacting 1@0 + 1@1 files
+2022/12/08-00:10:56.796 ba8 Generated table #74@0: 405 keys, 40920 bytes
+2022/12/08-00:10:56.796 ba8 Compacted 1@0 + 1@1 files => 40920 bytes
+2022/12/08-00:10:56.797 ba8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/12/08-00:10:56.797 ba8 Delete type=2 #70
+2022/12/08-00:10:56.797 ba8 Delete type=2 #73
